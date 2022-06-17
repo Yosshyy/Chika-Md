@@ -27,14 +27,14 @@ global.premium = ['6285641466187'] //ubah jadi nomor mu, note tanda ' gausah di 
 global.ownernomer = '6285641466187' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'Ｙｏｓｓｈｙᴳ⸙' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'yo͜shyᴳ⸙' //ubah jadi nama mu, note tanda ' gausah di hapus!
 global.botname = 'Yoshy-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'Ｙｏｓｓｈｙᴳ⸙' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.footer = 'yo͜shyᴳ⸙' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
 global.youtube = 'https://youtube.com/channel/UCYn8w3YlT4gibmb6M6j1Ujw'
-global.ig '-'
+global.ig ='-'
 global.mygc = 'https://chat.whatsapp.com/gblxrpbiwppkd4h2yzzwl4'
 global.myweb = 'https://linktr.ee/yosshy_mp4'
 global.email = 'yoshyhopkins@gmail.com'
@@ -42,7 +42,7 @@ global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
 global.packname = '© Yoshy-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.author = 'Ｙｏｓｓｈｙᴳ⸙' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.author = 'yo͜shyᴳ⸙' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² in!
